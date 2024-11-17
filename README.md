@@ -1,2 +1,1 @@
-# learngit
-learning git
+i ajinkya how r u
